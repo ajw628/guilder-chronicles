@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "World/Towns/Gosa.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "World/Towns/Gosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "World/Towns/Gosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "World/Towns/Gosa.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "97b5488e4ad227aa",
   "lastOpenFiles": [
-    "World/Forests/Mørkwoods.md",
+    "World/Bodies of Water/Zuidel Isles.md",
+    "World/Towns/Gosa.md",
     "readme.md",
+    "World/Forests/Mørkwoods.md",
     "Git Vault",
     "World/Guilder.md",
     "New folder",
@@ -201,8 +203,6 @@
     "content/World/Towns/San Faldo.md",
     "content/World/Towns/Vakdel.md",
     "content/World/Towns/Penshurst.md",
-    "content/World/Towns/Drowel.md",
-    "content/World/Towns/Greendale.md",
     "content/Images/The Unlikely Band/Thiramen Hero Forge.png",
     "content/Images/The Unlikely Band/Relador Hero Forge.png",
     "content/Images/The Unlikely Band/Elyria Hero Forge.png",

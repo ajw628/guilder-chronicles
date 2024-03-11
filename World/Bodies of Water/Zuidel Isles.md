@@ -1,0 +1,3 @@
+A group of four islands to the south of [[Guilder]]. They make a lagoon protecting the city of [[San Faldo]].
+
+The four Isles are Een, Twee, Drie, and Vier. Only Vier does not have a human settlement on  it. Because of the warm climate, it is good for farming many plants that cannot be grown on the main continent. The luxuries from these isles are a contributing factor as to why [[San Faldo]] is known as the entertainment capital. 
