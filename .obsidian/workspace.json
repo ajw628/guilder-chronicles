@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
+                "file": "World/Guilder.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
+                "file": "World/Guilder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
+                "file": "World/Guilder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md"
+                "file": "World/Guilder.md"
               }
             }
           }
@@ -156,8 +156,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "97b5488e4ad227aa",
+  "active": "4dd86bbf9bec5ec0",
   "lastOpenFiles": [
+    "Player Characters/The Unlikely Band/The Unlikely Band.md",
     "World/Guilder.md",
     "World/Towns/Aklar.md",
     "World/Towns/Drowel.md",
@@ -168,13 +169,12 @@
     "World/Towns/Vakdel.md",
     "World/Towns/Penshurst.md",
     "Player Characters/The Unlikely Band/Relador.md",
-    "World/Forests/Zuidel Isles.md",
+    "World/Bodies of Water/Zuidel Isles.md",
     "World/Forests/Geldig Woods.md",
     "World/Forests/Mørkwoods.md",
     "World/Forests/Greenwood.md",
     "readme.md",
     "Player Characters/The Unlikely Band/Thiramen.md",
-    "Player Characters/The Unlikely Band/The Unlikely Band.md",
     "Player Characters/The Unlikely Band/Elyria Tannis.md",
     "Player Characters/The Unlikely Band/Ashlan.md",
     "Images/The Unlikely Band/Elyria Hero Forge.png",
