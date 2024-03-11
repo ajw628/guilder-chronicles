@@ -1,3 +1,4 @@
+![[Elyria Hero Forge.png]]
 Being born as a half-elf, Elyria was fated to age more quickly than her elven peers yet slower than her human counterparts. Growing up in the slums of [[Vakdel]]‌, a destitute environment led Elyria to become acquainted with people primarily motivated by primal reactions such as fear and greed. With an ethnicity that made her feel outcast and an environment that gave her nothing but the cold ground beneath her feet, Elyria struggled to find a constant in a world of chaos.
 
 Perhaps by the luck of the gods or some cosmic alignment, Elyria had a chance encounter with an elder white male named Clancy. Despite her shortage of faith in the world and learned lack of trust, Elyria would come to develop strong morals and sense of self from spending the remainder of her days in the slums with Clancy.
