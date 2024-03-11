@@ -144,7 +144,7 @@
     },
     {
       "id": "guilder_map",
-      "lastAccessed": 1710176724652,
+      "lastAccessed": 1710186141686,
       "markers": [
         {
           "id": "ID_1879198bbbf9",
@@ -218,6 +218,57 @@
             0.37806734638636214,
             0.6753422187504331
           ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d80aebba5809",
+          "type": "default",
+          "loc": [
+            -0.010163545608520508,
+            0.00606536865234375
+          ],
+          "link": "Gosa",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_793b88493a8b",
+          "type": "default",
+          "loc": [
+            -0.009869813919067383,
+            0.008563995361328125
+          ],
+          "link": "Zuidel Isles",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_296928481a19",
+          "type": "default",
+          "loc": [
+            -0.008832216262817383,
+            0.0079803466796875
+          ],
+          "link": "San Faldo",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": 17,
           "maxZoom": null,
