@@ -1,0 +1,309 @@
+{
+  "mapMarkers": [
+    {
+      "id": "guilder",
+      "lastAccessed": 1710168610195,
+      "markers": [
+        {
+          "id": "ID_2a9afa18b9b8",
+          "type": "default",
+          "loc": [
+            -0.006905339660024878,
+            0.0050980827958777425
+          ],
+          "link": "Penshurst",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3262772989361755,
+            0.5892556509887896
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_692b0a5a4869",
+          "type": "default",
+          "loc": [
+            -0.006355070405866646,
+            0.005826380338145991
+          ],
+          "link": "Vakdel",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37288834164134343,
+            0.5422993413006204
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da0838cb3baa",
+          "type": "default",
+          "loc": [
+            -0.008859941906566101,
+            0.00797081199038028
+          ],
+          "link": "San Faldo",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb7aa8a94858",
+          "type": "default",
+          "loc": [
+            -0.004197359085083008,
+            0.0059413909912109375
+          ],
+          "link": "Aklar",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b396978790a",
+          "type": "default",
+          "loc": [
+            -0.006937708439681245,
+            0.004073071440092799
+          ],
+          "link": "Drowel",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.26067657216593915,
+            0.5920177868527996
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99f8887bfb69",
+          "type": "default",
+          "loc": [
+            -0.005971193313598633,
+            0.0048961639404296875
+          ],
+          "link": "Geldig Woods",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b68bb0ada28",
+          "type": "default",
+          "loc": [
+            -0.007914166625981638,
+            0.005896512694068119
+          ],
+          "link": "Greendale",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37737681242035964,
+            0.6753422187504331
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Guilder.md"
+      ]
+    },
+    {
+      "id": "guilder_map",
+      "lastAccessed": 1710176724652,
+      "markers": [
+        {
+          "id": "ID_1879198bbbf9",
+          "type": "default",
+          "loc": [
+            -0.006927490234375,
+            0.005115509033203125
+          ],
+          "link": "Penshurst",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.327392578125,
+            0.5911458333333334
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea480bfa0a38",
+          "type": "default",
+          "loc": [
+            -0.006399914652682238,
+            0.005829077736450689
+          ],
+          "link": "Vakdel",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabb3bcbd8c9",
+          "type": "default",
+          "loc": [
+            -0.0069427490234375,
+            0.00408172607421875
+          ],
+          "link": "Drowel",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.26123046875,
+            0.5924479166666666
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbeb09382b19",
+          "type": "default",
+          "loc": [
+            -0.007914166625981638,
+            0.005907302287286908
+          ],
+          "link": "Greenwood",
+          "layer": "%5B%5BGuilder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37806734638636214,
+            0.6753422187504331
+          ],
+          "description": null,
+          "minZoom": 17,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Guilder.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 16,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "700px",
+    "image": "[[Guilder.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Guilder.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 18,
+    "minZoom": 0,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "guilder_map",
+    "width": "100%",
+    "lat": 50,
+    "long": 50,
+    "unit": "feet",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

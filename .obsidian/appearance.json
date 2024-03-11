@@ -1,0 +1,9 @@
+{
+  "accentColor": "#5d3fd3",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ]
+}

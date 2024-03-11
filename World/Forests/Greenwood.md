@@ -1,0 +1,1 @@
+A forest that is located to the south of [[Guilder]]. The town of [[Greendale]] borders it. The town's adventurers guild often explores these woods to find some interesting things.

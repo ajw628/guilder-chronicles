@@ -1,0 +1,1 @@
+A logging town in the south of the [[Geldig Woods]]. Ships its product down the [[Gochi River]].

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b011feaf1662dfaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d1cfcbb5e594f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e802a3bedbbf35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Guilder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21cf30fa13f948c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b4c170602850f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd86bbf9bec5ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "430a68bd2a1656e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1186c763ec11efae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5bbd9b091034cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1597d2bd33b6f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f25e52782f610e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Guilder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ce29649394d0cec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Guilder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "398200f944f888ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "832f808174a7395e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Guilder.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "01e802a3bedbbf35",
+  "lastOpenFiles": [
+    "content/World/Forests/Greenwood.md",
+    "content/index.md",
+    "content/World/Towns/San Faldo.md",
+    "content/World/Towns/Vakdel.md",
+    "content/World/Towns/Penshurst.md",
+    "content/World/Towns/Drowel.md",
+    "content/World/Towns/Greendale.md",
+    "content/World/Towns/Aklar.md",
+    "content/World/Forests/Geldig Woods.md",
+    "content/World/Bodies of Water/Loch Vakdel.md",
+    "content/World/Bodies of Water/Gochi River.md",
+    "content/World/Guilder.md",
+    "content/World/Towns",
+    "content/World/Forests",
+    "content/World/Bodies of Water",
+    "content/World",
+    "content/Player Characters/The Unlikely Band/Thiramen.md",
+    "content/Player Characters/The Unlikely Band/The Unlikely Band.md",
+    "content/Player Characters/The Unlikely Band/Relador.md",
+    "content/Player Characters/The Unlikely Band/Elyria Tannis.md",
+    "content/Player Characters/The Unlikely Band/Ashlan.md",
+    "content/Player Characters/The Unlikely Band",
+    "content/Player Characters",
+    "content/Images/The Unlikely Band/Thiramen Hero Forge.png",
+    "content/Images/The Unlikely Band/Relador Hero Forge.png",
+    "content/Images/The Unlikely Band/Elyria Hero Forge.png",
+    "content/Images/Maps/Penshurst Map.PNG",
+    "content/Images/Maps/Guilder.jpg",
+    "content/Images/The Unlikely Band",
+    "content/Images/Maps",
+    "content/Images",
+    "content",
+    "World/Towns/Penshurst.md",
+    "World/Towns/Vakdel.md",
+    "World/Guilder.md",
+    "World/Towns/Greendale.md",
+    "World/Towns/San Faldo.md",
+    "Images/Maps/Penshurst Map.PNG",
+    "Player Characters/The Unlikely Band/The Unlikely Band.md",
+    "Player Characters/The Unlikely Band/Relador.md",
+    "Player Characters/The Unlikely Band/Elyria Tannis.md",
+    "Images/Thiramen Token.png",
+    "Images/Relador Token.png",
+    "Images/Elyria Token.png",
+    "Images/The Unlikely Band/Thiramen Hero Forge.png"
+  ]
+}
