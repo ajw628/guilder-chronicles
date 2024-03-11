@@ -1,1 +1,1 @@
-This is a test. I hope it works
+This GitHub Repository should hopefully be a way for us all to use the Obsidian app to run our campaign's wiki. This should allow us to upload and download changes from git to the obsidian file without paying for a web hosting solution. All glory to the dice gods. 
