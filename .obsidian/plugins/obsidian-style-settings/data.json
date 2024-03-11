@@ -1,4 +1,15 @@
 {
   "ITS@@select": "wotc-beyond",
-  "ITS@@paper": true
+  "ITS@@paper": true,
+  "ITS@@headers@@dark": "#5D3FD3",
+  "ITS@@tag@@dark": "#5D3FD3",
+  "ITS@@list-marker-color@@dark": "#5D3FD3",
+  "ITS@@list-numbered-color@@dark": "#5D3FD3",
+  "ITS@@code-text@@dark": "#CF9FFF",
+  "ITS@@hr-icon-color@@dark": "#5D3FD3",
+  "ITS@@progress@@dark": "#5D3FD3",
+  "ITS@@th@@dark": "#5D3FD3",
+  "ITS@@table-header-text-color@@dark": "#CF9FFF",
+  "ITS@@graph-tag@@dark": "#CF9FFF",
+  "ITS@@graph-lines@@dark": "#5D3FD3"
 }
