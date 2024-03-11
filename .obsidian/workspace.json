@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97b5488e4ad227aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Forests/Mørkwoods.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Forests/Mørkwoods.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Forests/Mørkwoods.md"
+                "file": "readme.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4dd86bbf9bec5ec0",
+  "active": "97b5488e4ad227aa",
   "lastOpenFiles": [
+    "World/Forests/Mørkwoods.md",
+    "readme.md",
     "Git Vault",
     "World/Guilder.md",
-    "World/Forests/Mørkwoods.md",
     "New folder",
     "Guilder Chronicles/World/Forests/Greenwood.md",
     "Guilder Chronicles/World/Forests/Geldig Woods.md",
@@ -182,7 +196,6 @@
     "Guilder Chronicles/Images/Maps/Penshurst Map.PNG",
     "Guilder Chronicles/Images/Maps/Guilder.jpg",
     "Guilder Chronicles/Images/Maps",
-    "Guilder Chronicles/Images",
     "content/World/Forests/Greenwood.md",
     "content/index.md",
     "content/World/Towns/San Faldo.md",
