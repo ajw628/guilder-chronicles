@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/The Unlikely Band/Relador.md",
+                "file": "World/Bodies of Water/Zuidel Isles.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Characters/The Unlikely Band/Relador.md",
+                "file": "World/Bodies of Water/Zuidel Isles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Characters/The Unlikely Band/Relador.md",
+                "file": "World/Bodies of Water/Zuidel Isles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/The Unlikely Band/Relador.md"
+                "file": "World/Bodies of Water/Zuidel Isles.md"
               }
             }
           }
@@ -162,11 +162,14 @@
   },
   "active": "97b5488e4ad227aa",
   "lastOpenFiles": [
+    "World/Forests/Geldig Woods.md",
+    "World/Forests/Mørkwoods.md",
+    "World/Forests/Greenwood.md",
+    "World/Guilder.md",
+    "Player Characters/The Unlikely Band/Relador.md",
     "readme.md",
     "Player Characters/The Unlikely Band/Thiramen.md",
-    "World/Forests/Mørkwoods.md",
     "Player Characters/The Unlikely Band/The Unlikely Band.md",
-    "Player Characters/The Unlikely Band/Relador.md",
     "Player Characters/The Unlikely Band/Elyria Tannis.md",
     "Player Characters/The Unlikely Band/Ashlan.md",
     "Images/The Unlikely Band/Elyria Hero Forge.png",
@@ -174,7 +177,6 @@
     "World/Bodies of Water/Loch Vakdel.md",
     "World/Bodies of Water/Gochi River.md",
     "World/Towns/Penshurst.md",
-    "World/Guilder.md",
     "World/Towns/Aklar.md",
     "World/Towns/Drowel.md",
     "World/Towns/Gosa.md",
@@ -189,8 +191,6 @@
     "Guilder Chronicles/World/Towns/Aklar.md",
     "Guilder Chronicles/World/Towns/Drowel.md",
     "Guilder Chronicles/World/Bodies of Water/Loch Vakdel.md",
-    "Guilder Chronicles/World/Bodies of Water/Gochi River.md",
-    "Guilder Chronicles/World/Guilder.md",
     "Guilder Chronicles/World/Forests",
     "Guilder Chronicles/World/Towns",
     "Guilder Chronicles/World/Bodies of Water",
