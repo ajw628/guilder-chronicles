@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Guilder.md",
+                "file": "World/Forests/Mørkwoods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Guilder.md",
+                "file": "World/Forests/Mørkwoods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Guilder.md",
+                "file": "World/Forests/Mørkwoods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Guilder.md"
+                "file": "World/Forests/Mørkwoods.md"
               }
             }
           }
@@ -147,8 +147,42 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "01e802a3bedbbf35",
+  "active": "4dd86bbf9bec5ec0",
   "lastOpenFiles": [
+    "Git Vault",
+    "World/Guilder.md",
+    "World/Forests/Mørkwoods.md",
+    "New folder",
+    "Guilder Chronicles/World/Forests/Greenwood.md",
+    "Guilder Chronicles/World/Forests/Geldig Woods.md",
+    "Guilder Chronicles/World/Towns/Vakdel.md",
+    "Guilder Chronicles/World/Towns/Penshurst.md",
+    "Guilder Chronicles/World/Towns/San Faldo.md",
+    "Guilder Chronicles/World/Towns/Greendale.md",
+    "Guilder Chronicles/World/Towns/Aklar.md",
+    "Guilder Chronicles/World/Towns/Drowel.md",
+    "Guilder Chronicles/World/Bodies of Water/Loch Vakdel.md",
+    "Guilder Chronicles/World/Bodies of Water/Gochi River.md",
+    "Guilder Chronicles/World/Guilder.md",
+    "Guilder Chronicles/World/Forests",
+    "Guilder Chronicles/World/Towns",
+    "Guilder Chronicles/World/Bodies of Water",
+    "Guilder Chronicles/World",
+    "Guilder Chronicles/Player Characters/The Unlikely Band/The Unlikely Band.md",
+    "Guilder Chronicles/Player Characters/The Unlikely Band/Relador.md",
+    "Guilder Chronicles/Player Characters/The Unlikely Band/Thiramen.md",
+    "Guilder Chronicles/Player Characters/The Unlikely Band/Elyria Tannis.md",
+    "Guilder Chronicles/Player Characters/The Unlikely Band/Ashlan.md",
+    "Guilder Chronicles/Player Characters/The Unlikely Band",
+    "Guilder Chronicles/Player Characters",
+    "Guilder Chronicles/Images/The Unlikely Band/Thiramen Hero Forge.png",
+    "Guilder Chronicles/Images/The Unlikely Band/Elyria Hero Forge.png",
+    "Guilder Chronicles/Images/The Unlikely Band/Relador Hero Forge.png",
+    "Guilder Chronicles/Images/The Unlikely Band",
+    "Guilder Chronicles/Images/Maps/Penshurst Map.PNG",
+    "Guilder Chronicles/Images/Maps/Guilder.jpg",
+    "Guilder Chronicles/Images/Maps",
+    "Guilder Chronicles/Images",
     "content/World/Forests/Greenwood.md",
     "content/index.md",
     "content/World/Towns/San Faldo.md",
@@ -156,43 +190,10 @@
     "content/World/Towns/Penshurst.md",
     "content/World/Towns/Drowel.md",
     "content/World/Towns/Greendale.md",
-    "content/World/Towns/Aklar.md",
-    "content/World/Forests/Geldig Woods.md",
-    "content/World/Bodies of Water/Loch Vakdel.md",
-    "content/World/Bodies of Water/Gochi River.md",
-    "content/World/Guilder.md",
-    "content/World/Towns",
-    "content/World/Forests",
-    "content/World/Bodies of Water",
-    "content/World",
-    "content/Player Characters/The Unlikely Band/Thiramen.md",
-    "content/Player Characters/The Unlikely Band/The Unlikely Band.md",
-    "content/Player Characters/The Unlikely Band/Relador.md",
-    "content/Player Characters/The Unlikely Band/Elyria Tannis.md",
-    "content/Player Characters/The Unlikely Band/Ashlan.md",
-    "content/Player Characters/The Unlikely Band",
-    "content/Player Characters",
     "content/Images/The Unlikely Band/Thiramen Hero Forge.png",
     "content/Images/The Unlikely Band/Relador Hero Forge.png",
     "content/Images/The Unlikely Band/Elyria Hero Forge.png",
     "content/Images/Maps/Penshurst Map.PNG",
-    "content/Images/Maps/Guilder.jpg",
-    "content/Images/The Unlikely Band",
-    "content/Images/Maps",
-    "content/Images",
-    "content",
-    "World/Towns/Penshurst.md",
-    "World/Towns/Vakdel.md",
-    "World/Guilder.md",
-    "World/Towns/Greendale.md",
-    "World/Towns/San Faldo.md",
-    "Images/Maps/Penshurst Map.PNG",
-    "Player Characters/The Unlikely Band/The Unlikely Band.md",
-    "Player Characters/The Unlikely Band/Relador.md",
-    "Player Characters/The Unlikely Band/Elyria Tannis.md",
-    "Images/Thiramen Token.png",
-    "Images/Relador Token.png",
-    "Images/Elyria Token.png",
-    "Images/The Unlikely Band/Thiramen Hero Forge.png"
+    "content/Images/Maps/Guilder.jpg"
   ]
 }
