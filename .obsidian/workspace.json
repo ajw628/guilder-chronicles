@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "97b5488e4ad227aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Guilder.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Guilder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Guilder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World/Guilder.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,10 +139,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4dd86bbf9bec5ec0",
+  "active": "01e802a3bedbbf35",
   "lastOpenFiles": [
-    "Player Characters/The Unlikely Band/The Unlikely Band.md",
     "World/Guilder.md",
+    "Player Characters/The Unlikely Band/The Unlikely Band.md",
     "World/Towns/Aklar.md",
     "World/Towns/Drowel.md",
     "World/Towns/Gosa.md",
