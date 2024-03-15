@@ -7,4 +7,4 @@ With a commitment to nothing but the will to survive, Elyria was drawn to Clancy
 
 Clancy’s lessons would lead Elyria to adopt the profession of Cleric belonging to the Order Domain in an effort to not forget his guidance. Despite the ruthlessness she experienced at the hands of those down on their luck, Elyria would turn to Clancy’s teachings to use as a lens on those in her path. Recognizing that her opposition may have motivations that in Elyria’s own eyes can be rationalized and understood leads her divine power to be on that of a scale. The stronger her moral lack-of-alignment with her adversary, the greater her retribution against them, but the more she aligns with her adversary’s actions, the less she is able to take up arms against them, especially in the name of a god.
 
-Starting her adventure she wanders south the the town of [[Penshurst]]. There she finds [[Thiramen]] and [[Relador]] who form [[The Unlikely Band]].
+Starting her adventure she wanders south the the town of [[Penshurst]]. There she finds [[Thiramen]] and [[Relador]] who form [[The Circus Troupe]].
