@@ -6,4 +6,4 @@ A year into their expeditions, the two came across a mystical tree with just one
 
 Just a day later, a fire started and began to ravage the village, quickly spreading into the nearby forest as well. Hitze worked tirelessly to stop the fire and save anyone trapped in engulfed buildings. Once the flames subsided the next day, Hitze searched the forest for the elf with no success. Longing to be reunited with his childhood companion, Hitze set out from the village on his 18th birthday to explore the lands of [[Guilder]] under a new name - Thiramen.
 
-Soon after beginning his quest, he lands in the town of  [[Penshurst]]. There he joins [[The Circus Troupe]] and sets out on bigger adventures.
+Soon after beginning his quest, he lands in the town of [[Penshurst]]. There he joins [[The Circus Troupe]] and sets out on bigger adventures.
