@@ -11,8 +11,12 @@
             "id": "01e802a3bedbbf35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player Characters/The Unlikely Band/The Unlikely Band.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "01e802a3bedbbf35",
   "lastOpenFiles": [
+    "Player Characters/The Unlikely Band/Ashlan.md",
     "World/Guilder.md",
     "Player Characters/The Unlikely Band/The Unlikely Band.md",
     "World/Towns/Aklar.md",
@@ -159,7 +168,6 @@
     "readme.md",
     "Player Characters/The Unlikely Band/Thiramen.md",
     "Player Characters/The Unlikely Band/Elyria Tannis.md",
-    "Player Characters/The Unlikely Band/Ashlan.md",
     "Images/The Unlikely Band/Elyria Hero Forge.png",
     "World/Bodies of Water/Gochi River.md",
     "Git Vault",
