@@ -1,1 +1,1 @@
-These elven ruins are located about a day's travel 
+These elven ruins are located about a day's travel into the [[Morkwoods]]. The decrepit ruins are overrun with plants. Its one of the few places in the Morkwoods that has a clearing in the canopy.
