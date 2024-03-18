@@ -1,3 +1,3 @@
 The Morkwoods are a densely forested area in the northwest of [[Guilder]]. The dense canopy creates a dark covering of the forest ground. The only source of light are scattered rays of light that pierce through the leaves. In the middle of the woods stand three lone, jagged mountains. Although many have their own name for these mountains, the kingdom of Guilder refuses to officially name the mountains until the area is settled. 
 
-The area has been undocumented for most of recorded history. It is theorized that the elves once occupied the area before
+The area has been undocumented for most of recorded history. It is theorized that the elves once occupied the area before they were overrun by monsters, beasts, and orcs. 

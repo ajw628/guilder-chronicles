@@ -1,0 +1,1 @@
+These elven ruins are located about a day's travel 
