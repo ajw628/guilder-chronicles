@@ -1,4 +1,4 @@
-The deck of many things is a vellum set of 22 cards. The cards are imbued with powerful magic that can change the course of a party's adventure. The user can declare an amount of cards to draw, afterwards they 
+The deck of many things is a vellum set of 22 cards. The cards are imbued with powerful magic that can change the course of a party's adventure. The user can declare an amount of cards to draw, afterwards they must draw the number of cards drawn unless a card changes it. After the cards are drawn, the deck of many things disappears and returns to its original location. 
 
 The contents of the deck and their effects are as follows:
 
