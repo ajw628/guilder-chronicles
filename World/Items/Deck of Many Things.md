@@ -1,4 +1,6 @@
-The deck of many things is a vellum set of 22 cards.
+The deck of many things is a vellum set of 22 cards. The cards are imbued with powerful magic that can change the course of a party's adventure. The user can declare an amount of cards to draw, afterwards they 
+
+The contents of the deck and their effects are as follows:
 
 **Balance:** Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
 
@@ -14,7 +16,7 @@ The deck of many things is a vellum set of 22 cards.
 
 **Fool:** You lose 10,000 XP, discard this card, and draw from the deck again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level.
 
-**Gem:** Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet.
+**Gem:** Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
 
 **Idiot:** Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
