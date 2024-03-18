@@ -1,1 +1,1 @@
-The capital city of [[Guilder]].
+The capital city of [[Guilder]]. A fortified old city is nestled up against the north side of the Slepende Reus.
