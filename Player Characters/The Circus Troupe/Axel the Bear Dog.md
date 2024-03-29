@@ -1,1 +1,1 @@
-Axel is a baby black bear that lived 
+Axel is a baby black bear that lived in the woods north of [[Penshurst]]. He lived with his parents until the [[The Circus Troupe]] killed the adult black bears as a quest. The party unsuccessfully tried to tame and disguise the bear as a dog. It however was successful in escaping and outrunning the party. 
