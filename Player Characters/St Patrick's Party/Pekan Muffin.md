@@ -1,1 +1,1 @@
-Pekan Muffin is a Goliath knight that [[Frost D. Muffin]] summon using the Knight card from the [[Deck of Many Things]]. The knight is bound to serve Frost and joins the [[St. Patrick's Party]]. 
+Pekan Muffin is a Goliath knight that [[Frost D. Muffin]] summoned using the Knight card from the [[Deck of Many Things]]. The knight is bound to serve Frost and joins the [[St. Patrick's Party]]. 
