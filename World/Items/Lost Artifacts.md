@@ -7,6 +7,6 @@ The Key of the Tower
 
 Amulet of the Star
 - DC 14 Int check
-	- also user to heal oneself 2d8 once per long rest
+	- Allows user to heal oneself 2d8 once per long rest
 - Failed
 	- Causes the user to take 2d8 radiant damage and to lose next turn
