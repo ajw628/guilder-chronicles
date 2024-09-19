@@ -1,1 +1,3 @@
 Axel is a baby black bear that lived in the woods north of [[Penshurst]]. He lived with his parents until the [[The Circus Troupe]] killed the adult black bears as a quest. The party unsuccessfully tried to tame and disguise the bear as a dog. It however was successful in escaping and outrunning the party. 
+
+The bear then moved his way to the city of [[Greendale]] where it lived off of the crops grown by the university. There Axel runs into [[The Circus Troupe]] where they are reunited. [[Thiramen]] took a liking to the bear dog and started to build a relationship with it. 
