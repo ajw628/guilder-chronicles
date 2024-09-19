@@ -1,1 +1,1 @@
-Trade City on [[Loch Vakdel]] and the [[Gochi River]]. It is a city composed mostly of floating docks.
+Trade City on [[Loch Vakdel]] and the [[Gochi River]]. It is a city composed mostly of docks expanding greatly on the lake. 
