@@ -1,6 +1,6 @@
 
 The Fool Card
-- DC check
+- DC 10 check
 	- The Party obtains the benefits of a long rest.
 - Failed
 	- Party reduced to 1 hit point. User becomes incapacitated.
