@@ -1,3 +1,3 @@
-Worg's Point is the trading capital of the Kingdom. It is situated above the meeting of the [[Kelend River|Kelend]] and [[Reus River|Reus]] rivers, which has the same name. The city hosts traders that route items between the [[Fertile Valley]], [[Vakdel]], and [[Aklar]]. 
+Worg's Point is the trading capital of the Kingdom. It is situated above the meeting of the [[Kelend River|Kelend]] and [[Reus River|Reus]] rivers, which has the same name. The large bridge of a city is situated around a main road that crosses the river, at points creating a canopy. It is evident that the city was not planned to be that size, but has been continuously expanding. The city hosts traders that route items between the [[Fertile Valley]], [[Vakdel]], and [[Aklar]].
 
-A large ferry runs between Worg's Point and [[Vakdel]]. 
+A large ferry runs between Worg's Point and [[Vakdel]]. There is also a path to the capital through the [[Slapende Reus Mountains]] that only verified traders can utilize. 
