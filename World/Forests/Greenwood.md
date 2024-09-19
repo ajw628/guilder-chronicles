@@ -1,1 +1,3 @@
-A forest that is located to the south of [[Guilder]]. The town of [[Greendale]] borders it. The town's adventurers guild often explores these woods to find some interesting things.
+A forest that is located to the south of [[Guilder]]. In the early days of the kingdom, [[Comet]] the Pixie and their followers took refuge in the forest.
+
+The town of [[Greendale]] borders it. The town's adventurers guild often explores these woods to find some interesting things. To help the connections and trading between the Kingdom and Aurealis region, the Adventurers Guild and the Loggers Union of [[Greendale]] teamed up to build a trail. 

@@ -1,0 +1,3 @@
+Comet is a pixie originating from the fey realm. In the early days of the human settlement of Guilder, Comet and her followers were centered around where [[San Faldo]] was to be built. The humans were not accepting of the fey creatures so Comet fled further and further inland. The group eventually settled in old elvish ruins that are located deep with [[Greenwood]].
+
+Comet is very caring for the fey creatures she takes in to her group. She values the upmost protection and secrecy for her area. Due to the history she has had with humans, she is deeply mistrusting and is violent towards them. Comet is known to attack humans on sight.
