@@ -1,7 +1,7 @@
 
 The Key of the Tower
 - DC 8 Dex check
-	- Gives the user +10 movement speed for 10 minutes.
+	- Gives the user +10 movement speed for 10 minutes. Can be used once per long rest
 - Failed
 	- Cuts movement speed down to 5 for 1 hour
 
