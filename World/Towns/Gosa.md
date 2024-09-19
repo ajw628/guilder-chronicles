@@ -1,1 +1,1 @@
-Located on the of [[Zuidel Isles|Een]], Gosa is a small village known for farming tangerines.  It is located in the center of a picturesque orange grotto. The main way in and out of the village is a ferry that connects the [[Zuidel Isles]] to [[San Faldo]].
+Located on the of [[Zuidel Isles|Een]], Gosa is a small village known for farming tangerines. It is located in the center of a picturesque orange grotto. The main way in and out of the village is a ferry that connects the [[Zuidel Isles]] to [[San Faldo]].
