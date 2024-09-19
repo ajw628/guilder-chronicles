@@ -1,3 +1,6 @@
+[[Androl Hero Forge.png]]
+
+
 Born to the [[High Families|Tallin]] family, vassal of the king, and the youngest of 10 children, Cadmus was always looked down on. He received the same training as his siblings did, but was never thought of seriously. Everyone knew that his eldest brother Pollux would claim his fathers seat and his second eldest brother Dion would likely become an advisor to the king. His eldest sister, Eleonora, would likely by married off to some poor lord, she would rule him, and his second eldest sister, Jane, was on track to leading the weaving and stonemason guilds. 
 
 The rest of his sibling were on track to lead armies or marry/join the church. Cadmus wanted no such thing. When he wasn't training with his siblings and the local sword master, he spent his time hidden away in the library. One day he tried to pull out a book and it wouldn't come out. He pulled harder, only to hear a click as the bookshelf slid open in front of him. He watched as in front of him appeared a path, covered in cobwebs and smelling of damp, and being the curious scholar he was, decided to go adventuring. 
