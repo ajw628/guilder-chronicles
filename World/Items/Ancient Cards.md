@@ -1,4 +1,10 @@
 
+The Fool Card
+- D20 check
+	- The Party obtains the benefits of a long rest
+- Failed
+	- Party reduced to 1 hit point. User becomes incapacited.
+
 The Tower Card
 - DC 8 Dex check
 	- Gives the user +10 movement speed for 10 minutes. Can be used once per long rest
