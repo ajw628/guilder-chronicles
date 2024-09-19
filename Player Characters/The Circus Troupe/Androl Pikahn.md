@@ -1,8 +1,6 @@
 ![[Androl Hero Forge.png]]
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/main
+===============================================================
 
 Born to the [[High Families|Tallin]] family, vassal of the king, and the youngest of 10 children, Cadmus was always looked down on. He received the same training as his siblings did, but was never thought of seriously. Everyone knew that his eldest brother Pollux would claim his fathers seat and his second eldest brother Dion would likely become an advisor to the king. His eldest sister, Eleonora, would likely by married off to some poor lord, she would rule him, and his second eldest sister, Jane, was on track to leading the weaving and stonemason guilds. 
 
@@ -18,4 +16,7 @@ As such, he spoke with his second eldest brother, Dion, and second eldest sister
 
 He scoured through history books and found the name of a little known fighter who had gone adventuring for a short time in the world centuries ago. He found him in "The Tale of the [[St. Patrick's Party]] ", A little known book on adventuring. He became Androl Pikahn.
 
+**PRESENT DAY (326RC)** 
+
+In the town of Greendale, Androl met [[Elyria Tannis]] and [[Thiramen]] as they requested his help catching [[Axel the Bear Dog]]. 
 
