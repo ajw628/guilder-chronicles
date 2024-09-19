@@ -1,5 +1,8 @@
 ![[Androl Hero Forge.png]]
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 
 Born to the [[High Families|Tallin]] family, vassal of the king, and the youngest of 10 children, Cadmus was always looked down on. He received the same training as his siblings did, but was never thought of seriously. Everyone knew that his eldest brother Pollux would claim his fathers seat and his second eldest brother Dion would likely become an advisor to the king. His eldest sister, Eleonora, would likely by married off to some poor lord, she would rule him, and his second eldest sister, Jane, was on track to leading the weaving and stonemason guilds. 
 
