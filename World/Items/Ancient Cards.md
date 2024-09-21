@@ -80,16 +80,24 @@ Justice Card
 - Sacrifice various items in exchange for another item or creature of the DM's choosing.
 
 The Hanged Man Card
-
+- Sacrifice your health to deal 3d8 force dmg to enemies within 10m. User becomes incapacitated.
+- Heal 2d8 HP to allies within 10m
 
 Death Card
-
+- DC 10 CON
+	- Gain immunity to all damage and gain the Haste effect for 3 turns
+	- At the end of those turns, you become incapacitated
 
 Temperance Card
-
+- DC 10 CHA
+	- Gain Advantage on Arcana, History, Medicine , and Survival checks for 1 hour
+- Failed
+	- Gain Disadvantage on all checks for 1 hour
 
 The Devil Card
-
+- An NPC of your choosing will become your willing companion, helping where they can as long as you do not risk their life
+- Your lover will obsess over you, slowly driving themselves into madness over over
+- This card cannot be used on two NPCs at the same time
 
 The Tower Card
 - DC 8 Dex check
