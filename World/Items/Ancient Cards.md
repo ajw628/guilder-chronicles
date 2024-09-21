@@ -96,7 +96,7 @@ Temperance Card
 
 The Devil Card
 - An NPC of your choosing will become your willing companion, helping where they can as long as you do not risk their life
-- Your lover will obsess over you, slowly driving themselves into madness over over
+- Your lover will obsess over you, slowly driving themselves into madness over you (Yandere GF)
 - This card cannot be used on two NPCs at the same time
 
 The Tower Card
