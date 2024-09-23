@@ -17,12 +17,12 @@ Sun Titan
 
 Storm Titan 
 - Associated with the Sea, Darkness, the stars, Travel, Guidance, and natural disasters
-- Alternative Names:
+- Alternative Names: ( E.g. Poseidon)
 - Associated Cults:
 
 Shadow Titan
 - Associated with Shadows, Peace, Death, and Mystery
-- Alternative Names:
+- Alternative Names: Thanatos, Hel
 - Associated Cults:
 
 Heart Titan
