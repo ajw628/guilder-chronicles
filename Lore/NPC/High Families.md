@@ -6,7 +6,7 @@ Core Families
 	
 	Tallin - (Eklid)
 	
-	Tetia - (San Faldo) 
+	`$Tetia$ - (San Faldo)` 
 	
 	Rugen - (Vakdel)
 	
