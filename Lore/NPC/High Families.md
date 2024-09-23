@@ -5,15 +5,19 @@ Core Families
 		- War Titan
 	
 	Tallin - (Eklid)
+		- Beast Titan
 	
-	`$Tetia$ - (San Faldo)` 
+	`Tetia - (San Faldo)` 
+	Tetia - (San Faldo) 
+		- Storm Titan
 	
 	Rugen - (Vakdel)
-	
+		- Sun Titan
 	Elwes - (Aureal)
 		- Shadow Titan
 	
 	Roussi - (Oostaven)
+		- Heart Titan
 
 Smaller Families
 	Ironheart - (Ausserst) - The only Dwarven family. They date back much further than any of the other families. Master smiths and stone workers
