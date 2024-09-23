@@ -5,8 +5,10 @@ Core Families
 		- War Titan
 	
 	Tallin - (Eklid)
+		- Beast Titan
 	
 	Tetia - (San Faldo) 
+		- Storm Titan
 	
 	Rugen - (Vakdel)
 	
