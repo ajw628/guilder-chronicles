@@ -2,4 +2,4 @@ Comet is a pixie originating from the [[Fey Realm]]. In the early days of the hu
 
 Comet is very caring for the fey creatures she takes in to her group. She values the upmost protection and secrecy for her area. Due to the history she has had with humans, she is deeply mistrusting and is violent towards them. Comet is known to attack humans on sight.
 
-Some of her newer members have heard of a [[Castien Zumor|General Zumor]] and his plan to invade the human realm. Comet waits in prayer that this day will come. She plans to support this new plan, although she is wholly unfamiliar with the details. 
+Some of her newer members have heard of a [[Castien Zumor|General Zumor]] and his plan to invade the human realm through the ocean portal. Comet waits in prayer that this day will come so she can reclaim her original home. Comet, however, is wholly unfamiliar with any of the details. 
