@@ -12,7 +12,7 @@ Beast Titan
 
 Sun Titan
 - Associated with Light, Fire, Passion, Creation, and Destruction
-- Alternative Names: Lathandar
+- Alternative Names: Lathandar, Sune
 - Associated Cults:
 
 Storm Titan 
