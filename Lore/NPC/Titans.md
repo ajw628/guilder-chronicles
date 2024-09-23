@@ -22,7 +22,7 @@ Storm Titan
 
 Shadow Titan
 - Associated with Shadows, Peace, Death, and Mystery
-- Alternative Names: Thanatos, Hel
+- Alternative Names: Thanatos, Hel, Shar
 - Associated Cults:
 
 Heart Titan
