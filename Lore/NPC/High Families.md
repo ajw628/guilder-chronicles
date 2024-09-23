@@ -12,6 +12,7 @@ Core Families
 	
 	Rugen - (Vakdel)
 		- Sun Titan
+	
 	Elwes - (Aureal)
 		- Shadow Titan
 	
