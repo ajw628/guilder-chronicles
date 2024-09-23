@@ -25,8 +25,6 @@ Scorch Scorch Fruit
 	Scorch shot: +4 to hit 2d6 fire, r. 40ft
 	Weakened when wet
 
-
-
 Special Conditions:
 	Weakened
 		Str related rolls at disadvantage (ST AT SC)
