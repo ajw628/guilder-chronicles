@@ -7,8 +7,8 @@ War Titan
 
 Beast Titan
 - Associated with the Moon, Hunting, Carnal Desire, Blood, and Beauty 
-- Alternative Names:
-- Associated Cults:
+- Alternative Names: Selune
+- Associated Cults: 
 
 Sun Titan
 - Associated with Light, Fire, Passion, Creation, and Destruction
@@ -22,7 +22,7 @@ Storm Titan
 
 Shadow Titan
 - Associated with Shadows, Peace, Death, and Mystery
-- Alternative Names: Thanatos, Hel
+- Alternative Names: Thanatos, Hel, Shar
 - Associated Cults:
 
 Heart Titan
