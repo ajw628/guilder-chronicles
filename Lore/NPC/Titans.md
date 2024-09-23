@@ -1,0 +1,1 @@
+The titans, also known to terrans as gods, are mighty powerful creatures that helped create [[Eyslin]]. 
