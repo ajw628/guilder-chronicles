@@ -1,0 +1,1 @@
+Terrans are the creatures who are natural to the terran plane. These creatures include humans, dwarves, halflings, and elves. Although the elves are very versed and often inhabit the mirror plane of the [[Fey Realm]]. 
