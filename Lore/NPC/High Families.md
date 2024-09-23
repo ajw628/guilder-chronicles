@@ -5,7 +5,7 @@ Wright - (Aklar, Ruling Family)
 	- War Titan
 
 Tallin - (Eklid)
-	- Beast Titan
+	- Selune
 
 Tetia - (San Faldo) 
 	- Storm Titan
@@ -14,7 +14,7 @@ Rugen - (Vakdel)
 	- Sun Titan
 
 Elwes - (Aureal)
-	- Shadow Titan
+	- Hel
 
 Roussi - (Oostaven)
 	- Heart Titan
