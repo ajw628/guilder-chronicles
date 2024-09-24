@@ -1,4 +1,6 @@
 The Frosted Blade
+	A longsword that glows a pale blue. The sword freezes everything around it. Only its sheath is able to contain its magic.
+	- 1d8(1d10) slashing + 1d6 cold
 
 Honing Oil
 	Add plus 1 damage to a slashing weapon until a nat 1 is rolled
