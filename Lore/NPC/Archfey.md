@@ -1,1 +1,1 @@
-The archfey are power [[Fey Realm]].
+The archfey are powerful entities of the [[Fey Realm]].
