@@ -2,22 +2,22 @@ The original families (or early branches of) the settlers who discovered Guilder
 
 ### Core Families
 Wright - (Aklar, Ruling Family)
-	- War Titan
+	- Torm
 
-Tallin - (Eklid)
+Tallin - (Oostaven)
 	- Selune
 
 Tetia - (San Faldo) 
-	- Storm Titan
+	- Talos
 
 Rugen - (Vakdel)
-	- Sun Titan
+	- Lathandar
 
 Elwes - (Aureal)
 	- Hel
 
-Roussi - (Oostaven)
-	- Heart Titan
+Roussi - (Eklid)
+	- Mystra
 
 ### Smaller Families
 Ironheart - (Ausserst) - The only Dwarven family. They date back much further than any of the other families. Master smiths and stone workers
