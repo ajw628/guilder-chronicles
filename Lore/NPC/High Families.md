@@ -4,7 +4,7 @@ The original families (or early branches of) the settlers who discovered Guilder
 Wright - (Aklar, Ruling Family)
 	- Torm
 
-Tallin - (Eklid)
+Tallin - (Oostaven)
 	- Selune
 
 Tetia - (San Faldo) 
@@ -16,7 +16,7 @@ Rugen - (Vakdel)
 Elwes - (Aureal)
 	- Hel
 
-Roussi - (Oostaven)
+Roussi - (Eklid)
 	- Mystra
 
 ### Smaller Families
