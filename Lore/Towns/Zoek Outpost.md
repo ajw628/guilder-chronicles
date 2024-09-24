@@ -1,1 +1,1 @@
-one of the strongest outposts in the land
+one of the strongest outposts in the land. Well I dont know about that
