@@ -1,4 +1,4 @@
-The titans, also known as gods to terrans, are mighty and powerful creatures that helped create [[Eyslin]] and the Terran Realm. They are a powerful source of magic to those who pray to them.
+The titans, also known as gods to terrans, are mighty and powerful creatures that helped create [[Eyslin]] and the Terran Realm. They are a powerful source of magic to those who pray to them. The titans can cause great fortune and misfortune in the snap of their fingers.
 
 War Titan
 - Associated with War, Life, Progress, Technology, and Intellect
