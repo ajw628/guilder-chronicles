@@ -1,0 +1,1 @@
+The outpost is situated in the northwest corner of the [[Aluban Desert]]. It was originally just a scientific posting to investigate the strange occurrences in the desert. The outpost grew in size as more people came to profit off of the artifacts they hope to find in the desert.
