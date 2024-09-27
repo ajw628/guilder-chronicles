@@ -14,7 +14,9 @@ Sun Titan
 
 Storm Titan 
 - Associated with the Sea, Darkness, the stars, Travel, Guidance, and natural disasters
-- Alternative Names: Auril, Talos, Grummsh, Tiamat
+<<<<<<< HEAD
+- Alternative Names: Auril, Talos, Grummsh, Tiamat, Eadro
+- Associated Cults:
 
 Shadow Titan
 - Associated with Shadows, Peace, Death, and Mystery
