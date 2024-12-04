@@ -1,0 +1,1 @@
+Also known as “The 52”, they are a playing card themed gang that operates out of [[San Faldo]].
