@@ -10,7 +10,7 @@ Beast Titan
 
 Sun Titan
 - Associated with Light, Fire, Passion, Creation, and Destruction
-- Alternative Names: Lathandar, Sune, Moradin
+- Alternative Names: Lathandar, Sune, Moradin, Nika
 
 Storm Titan 
 - Associated with the Sea, Darkness, the stars, Travel, Guidance, and natural disasters
