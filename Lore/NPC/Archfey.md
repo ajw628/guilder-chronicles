@@ -1,1 +1,1 @@
-The archfey are powerful entities of the [[Fey Realm]].
+The archfey are powerful entities of the [[Fey Realm]]. They are theorized to be the original source of all the fey magic of the realm. 
