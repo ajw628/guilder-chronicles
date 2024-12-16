@@ -1,0 +1,5 @@
+There is one major continent in the Terran realm that inhabits many diverse kingdoms and species. The creatures of this realm are referred to as terrans. The elves were the first species to establish a civilization on the continent. Many other intelligent species were soon to settle. This happened long before written history. Eventually the elves banded together to form the elven council which saw leaders from many smaller groups come together. This banding created a once glorious civilization.
+
+Thousands of years later, the humans arrived on the continent and eventually formed the Kingdom of [[Guilder]]. At that time, the elven kingdom was no longer as wide spread. The elves were not as friendly to the new inhabitants so they left the Guilder area and settled in other planes. Humans quickly spread across the southeastern area of the continent with little resistance.
+
+Elven Calendar (EC) - Formed by the elvish council long before the humans came to the continent. [[Guilder]] was formed in 3441 EC.
