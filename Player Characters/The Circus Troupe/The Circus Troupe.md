@@ -7,3 +7,5 @@ Like the title suggests, the members of this adventuring party were not the most
 -Missions with the adventurers guild and the loss of relador
 
 -Travel into greenwood and encounter of the fey/ disappearance of thiramen
+
+-Meeting the sun elf Eldanor 

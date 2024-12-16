@@ -22,5 +22,5 @@ Shadow Titan
 - Alternative Names: Shar, Bhaal, Lolth
 
 Heart Titan
-- Associated with Souls, Emotions, Memories, Hunger, and Growth
+- Associated with Souls, Emotions, Memories, Hunger, and Growth, Nature
 - Alternative Names: Mystra, Savras, Rillifane Rallathil
