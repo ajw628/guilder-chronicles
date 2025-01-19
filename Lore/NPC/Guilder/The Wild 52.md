@@ -6,7 +6,7 @@ People of Interest:
 Right Bauer - Bart Cleavon
 Left Bauer - Jim Waco
 
-There is a bar located in the Cardview district of San Faldo called the Ace of Mugs. The bar is only a front for what is actually the headquarters of the group. Answering the bartender’s riddle will give you entrance to the basement. There is a fighting ring in the basement where people can vie for the honor of earning a card. Wagers are commonplace and the Bauers are often seen there. 
+There is a bar located in the Cardview district of San Faldo called the Left Bauer. The bar is only a front for what is actually the headquarters of the group. Answering the bartender’s riddle will give you entrance to the basement. There is a fighting ring in the basement where people can vie for the honor of earning a card. Wagers are commonplace and the Bauers are often seen there. 
 
 Entrance Riddle:
 I'm around kings and queens
@@ -17,7 +17,6 @@ I trick some deviously
 But bring prosperity to a few
 If you're feeling lucky
 Try me, I might surprise you
-
 
 Session Notes:
 5 of Diamonds is in the ring looking for competitors. Cards can get extra pay and possibly promotions by fighting in the ring. A fight finishes up when they enter. The 10 of clubs almost kills what appears to be a normal citizen. The bauers room will have shadowed figures in it 
