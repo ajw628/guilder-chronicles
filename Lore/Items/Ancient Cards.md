@@ -1,77 +1,76 @@
-
 The Fool Card
-- DC 8
+- DC 10
 	- The Party obtains the benefits of a long rest.
 - Failed
-	- Party reduced to 1 hit point. User becomes incapacitated.
+	- Caster is reduced to 0 hp
 
 
 The Magician Card
-- DC 10 INT
-	- Casts Major Image at 3rd level
+- DC 10
+	- Cast Teleportation circle, picking a location. The DM will determine if you successfully make it there, or end up somewhere else
 - Failed
 	- Alerts any within 120 feet of you location
 
 
 The High Priestess Card
-- DC 13 CHA
+- DC 10
 	- Gives advantage to persuasion checks for 1 hour
 - Failed
 	- NPC becomes angry and will attempt to discredit you amongst nearby NPCs
 
 
 The Empress Card
-- DC 13 WIS
+- DC 10
 	- Casts Plant Growth
 - Failed
-	- User takes 1d8 poison damage and gains the Poisoned condition
+	- User takes 1d8 poison damage and gains the Poisoned condition for 10 turns
 
 
 The Emperor Card
-- DC 13 WIS
+- DC 10
 	- Casts Wall of Fire
 - Failed
-	- User take 2d8 Fire damage and becomes Stunned
+	- User take 2d8 Fire damage and becomes Stunned for 2 turns
 
 
 The Hierophant Card
-- DC 13 WIS
+- DC 10
 	- Gives advantage to Intimidation for 1 hour
 - Failed
-	- NPC becomes angry and will begin combat. Nearby NPCs will not like any who participate.
+	- NPC becomes angry and will be more likely to attack. Nearby NPCs will not like any who participate.
 
 
 The Lovers Card
-	- Pick another player and you shall both receive 5d8 Temp HP. 
+	- Pick another player and you shall both receive 2d8 Temp HP until long rest
 	- Damage done to one, will be done to the other.
 
 
 The Chariot Card
 	- Gain resistance to Bludgeoning, Force, Piercing, and Slashing Dmg for 1 hour
-	- Unable to regain health for 10 minutes
+	- Unable to regain health during this time
 
 
 Strength Card
-- DC 12 CON
-	- -Gains +4 STR for 6 minutes
+- DC 10
+	- -Gains +4 STR for 1 hour
 - Failed
 	-Gains -4 Dex for 1 hour and becomes restrained for 2 turns
 
 
 The Hermit Card
-- DC 14 ST
-	- Casts Banishment at 5th Level
+- DC 10
+	- Casts Banishment 
 - Failed
-	- User is Banished for 10 minutes
+	- User has Banishment cast on them
 
 
 The Wheel of Fortune Meaning
-- DC 10 WIS
+- DC 10
 	- Roll a d4 and summon:
-		- 1 - Ox
-		- 2 - Giant eagle
-		- 3 - Lion
-		- 4 - Sphinx of Wonder
+		- 1 - Deinonychus (2014)
+		- 2 - Giant eagle (2014)
+		- 3 - Lion (2014)
+		- 4 - Giant Spider (2014)
 - Failed
 	- Summons above as an enemy
 
@@ -81,18 +80,17 @@ Justice Card
 
 
 The Hanged Man Card
-- Sacrifice your health to deal 3d8 force dmg to enemies within 10m. User becomes incapacitated.
-- Heal 2d8 HP to allies within 10m
+- Sacrifice your health to deal that much damage to enemies in a 15ft radius OR sacrifice your health to heal the amount you sacrificed
 
 
 Death Card
-- DC 10 CON
-	- Gain immunity to all damage and gain the Haste effect for 3 turns
-	- At the end of those turns, you become incapacitated
+- DC 10
+	- Gain immunity to all damage for 3 turns and gain the Haste effect for 3 turns
+	- At the end of those turns, you are reduced to 0 hp with disadvantage on saving throws
 
 
 Temperance Card
-- DC 10 CHA
+- DC 10
 	- Gain Advantage on Arcana, History, Medicine , and Survival checks for 1 hour
 - Failed
 	- Gain Disadvantage on all checks for 1 hour
@@ -105,21 +103,39 @@ The Devil Card
 
 
 The Tower Card
-- DC 8 Dex
+- DC 10
 	- Gives the user +10 movement speed for 10 minutes.
 - Failed
 	- Cuts movement speed down to 5 for 1 hour
 
 The Star Card
-
+- DC 10
+	- Ask the DM one question, to be answered truthfully
+- Failed
+	- Your soul is locked away in a hidden place and guarded, but hints will be given as to where
 
 The Moon Card
-
+- DC 10
+	- Summons 1 CR 1/2 Beast
+- Failed
+	- Vulnerable to acid and poison damage until long rest
 
 The Sun Card
+- DC 10
+	- Fortify your weapon with additional 1d6 radiant damage until long rest
+- Failed
+	- Blindness until long rest
 
 
 Judgement Card
+- DC 10
+	- Advantage on Perception checks and adds +2 to Charisma checks until long rest
+- Failed
+	- Disadvantage on Perception and Charisma checks until long rest
 
 
 The World Card
+- DC 10
+	- Cast an Organic 4th level spell (Conjure woodland beings, dominate beast, faithful hound grasping vine, giant insect, guardian of faith, locate creature)
+- Failed
+	- Movement speed reduced to 1/4 its normal until long rest
