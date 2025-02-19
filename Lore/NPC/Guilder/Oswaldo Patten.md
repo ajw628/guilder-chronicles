@@ -1,1 +1,0 @@
-Oswaldo is a firbolg bard who has lived his whole life in [[San Faldo]]. He provides guides through the city for tourists. He also performs at taverns and other local spots throughout San Faldo.
