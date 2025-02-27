@@ -16,3 +16,6 @@ ACME Sample Box
 		4: The sound of rushing wind. A hole of 1d10 diameter appears in front of you
 		5: A sizzling sound comes from the box. A gloved hand holding an ACME disintigrating pistol comes out of the box and fires the disintegrate spell.  
 		6: You hear the hiss of dynamite. The box explodes immediately. 3d6 fire damage to all entities within 5 feet of the box
+
+Yuusha's Armor (Broken)
+	The broken chain mail of the ancient warrior Yuusha. The wearer can spend a charge of the armor to add a +3 to their attack roll. The addition is made after the roll, but before the DM reveals if it is a successful hit. The armor has 3 charges that reset at dawn.
