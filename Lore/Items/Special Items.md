@@ -14,7 +14,7 @@ ACME Sample Box
 		2: The sound of gold. On your next turn a safe falls from the sky. 10x1d10 silver pieces found inside. DC 10 sleight of hand to open. 
 		3: The sound of a forge comes from the box. On your next turn an anvil fall from the sky onto an enemy. 3d6 bludgeoning damage
 		4: The sound of rushing wind. A hole of 1d10 diameter appears in front of you
-		5: A sizzling sound comes from the box. A gloved hand holding an ACME disintigrating pistol comes out of the box and fires the disintegrate spell.  
+		5: A sizzling sound comes from the box. A gloved hand holding an ACME disintigrating pistol comes out of the box and fires the disintegrate spell
 		6: You hear the hiss of dynamite. The box explodes immediately. 3d6 fire damage to all entities within 5 feet of the box
 
 Yuusha's Armor (Broken)
